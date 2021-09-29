@@ -10,8 +10,14 @@ Visit CoffeeWithDevs Site [here](https://coffeewithdevs.github.io/).
 
 We invite people to come on GitHub, the world's largest open-source community of developers. We create different projects on various technologies and assign them to developers who propose to take that project.
 
+---
+
 ## CodeWithUs
 
 CodeWithUs is a collaboration platform supporting developers to Hacktoberfest events organised in October every year.
 
-Visit CodeWithUs 2021 [here](https://coffeewithdevs.github.io/codewithus-2021/).
+**CodeWithUs 2021:** [Repository](https://github.com/CoffeeWithDevs/CodeWithUs-2021) • [Website](https://coffeewithdevs.github.io/CodeWithUs-2021/)
+
+### Previous Events
+
+- CodeWithUs 2020 - [Repository](https://github.com/CoffeeWithDevs/CodeWithUs) • [Website](https://coffeewithdevs.github.io/CodeWithUs/)
