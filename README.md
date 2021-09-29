@@ -1,3 +1,5 @@
+![CoffeeWithDevs](logo.png "CoffeeWithDevs")
+
 # CoffeeWithDevs
 
 ## About Us
