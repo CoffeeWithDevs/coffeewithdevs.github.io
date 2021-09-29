@@ -14,4 +14,4 @@ We invite people to come on GitHub, the world's largest open-source community of
 
 CodeWithUs is a collaboration platform supporting developers to Hacktoberfest events organised in October every year.
 
-Visit CodeWithUs 2021 [here](https://coffeewithdevs.github.io/codewithus-2021/)
+Visit CodeWithUs 2021 [here](https://coffeewithdevs.github.io/codewithus-2021/).
